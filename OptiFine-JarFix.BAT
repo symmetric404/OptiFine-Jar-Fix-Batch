@@ -43,7 +43,7 @@ exit
 :CRED
 cls
 echo.
-echo Github: https://github.com/symmetric404/optifine-jarfix-batch
+echo Github: https://github.com/symmetric404/OptiFine-Jar-Fix-Batch
 echo.
 pause
 GOTO MENU
